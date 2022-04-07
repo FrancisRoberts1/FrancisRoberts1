@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FrancisRoberts1
-- 👀 I’m interested in web design and development as well as digital marketing.
+- 👀 Beside web design and development, I’m also interested in digital marketing, data analytics, AI, cyber security and tech in general.
 - 🌱 I’m currently learning UX design, HTML, CSS, JS, C# and building my portfolio.
 
 // - 💞️ I’m looking to collaborate on ...
