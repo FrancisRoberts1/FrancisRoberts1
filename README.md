@@ -1,4 +1,4 @@
-👋 Hi, I’m @FrancisRoberts1 📫 twitter.com/FrancisRoberts1 https://www.linkedin.com/in/francis-roberts/
+👋 Hi, I’m @FrancisRoberts1 📫 https://twitter.com/FrancisRoberts1 https://www.linkedin.com/in/francis-roberts/
 
 👀 Beside development, I’m also interested in automation, networking, cloud computing, data analytics, AI, cyber security and tech in general.
 
