@@ -3,7 +3,7 @@
 - 📫 https://www.linkedin.com/in/francis-roberts/
 - 
 - 👀 Besides web development, I’m also interested in networking, cloud computing, data analytics, AI, cyber security and tech in general.
-- 👨‍🎓 I’m currently learning frontend dev: HTML/CSS/JS, backend: C# & doing the #100DaysOfCode challenge.
+- 👨‍🎓 I’m currently learning frontend dev: HTML/CSS/JS, backend: C#, Python for Automation & doing the #100DaysOfCode challenge.
 - 
 - ☑ The Fundamentals of Digital Marketing (Google Digital Garage)
 - ☑ Foundations of User Experience (UX) Design (Google/Coursera)
