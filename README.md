@@ -13,11 +13,11 @@
 - ➡ Back End Development and APIs (freeCodeCamp.org)
 - ➡ Python Crash Crouse (Google IT Automation/Coursera)
 - 
-- 👀 CCNA certification
-- 👀 Foundations: Data, Data, Everywhere (Google/Coursera)
-- 👀 Cloud (AWS/Azure) certification
-- 👀 Introduction to AI (https://www.elementsofai.com/)
-- 👀 DevOps Engineering Course for Beginners (freeCodeCamp)
+- 🎯 CCNA certification
+- 🎯 Foundations: Data, Data, Everywhere (Google/Coursera)
+- 🎯 Cloud (AWS/Azure) certification
+- 🎯 Introduction to AI (https://www.elementsofai.com/)
+- 🎯 DevOps Engineering Course for Beginners (freeCodeCamp)
 
 <!---
 RobertsFR/RobertsFR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
