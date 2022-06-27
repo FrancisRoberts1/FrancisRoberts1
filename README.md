@@ -3,14 +3,14 @@
 - 📫 https://twitter.com/FrancisRoberts1
 - 
 - 👀 Besides development, I’m also interested in networking, cloud computing, data analytics, AI, cyber security and tech in general.
-- 👨‍🎓 I’m currently learning frontend: HTML/CSS/JS & backend: C#.
+- 👨‍🎓 I’m currently learning Frontend: HTML/CSS/JS & Backend: C#, SQL, PHP.
 - 
 - ☑ The Fundamentals of Digital Marketing (Google Digital Garage)
 - ☑ Foundations of User Experience (UX) Design (Google/Coursera)
 - ☑ Responsive Web Design (freeCodeCamp.org)
 - 
-- ➡ Front End Development Libraries (freeCodeCamp.org)
-- ➡ Back End Development and APIs (freeCodeCamp.org)
+- ➡ Front End Development Libraries (freeCodeCamp.org) (Bootstrap, jQuery, SASS, React, Redux)
+- ➡ Back End Development and APIs (freeCodeCamp.org) (NPM, Node, Express, MongoDB, Mongoose)
 - 
 - 🎯 CCNA certification
 - 🎯 Foundations: Data, Data, Everywhere (Google/Coursera)
