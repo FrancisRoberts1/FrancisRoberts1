@@ -2,7 +2,7 @@
 - 📫 https://www.linkedin.com/in/francis-roberts/
 - 📫 https://twitter.com/FrancisRoberts1
 - 
-- 👀 Besides development, I’m also interested in networking, cloud computing, data analytics, AI, cyber security and tech in general.
+- 👀 Besides development, I’m also interested in cloud computing, AI, cyber security and tech in general.
 - 👨‍🎓 I’m currently learning Frontend: HTML/CSS/JS & Backend: C#, SQL, PHP.
 - 
 - ☑ The Fundamentals of Digital Marketing (Google Digital Garage)
@@ -13,7 +13,6 @@
 - ➡ Back End Development and APIs (freeCodeCamp.org) (NPM, Node, Express, MongoDB, Mongoose)
 - 
 - 🎯 CCNA certification
-- 🎯 Foundations: Data, Data, Everywhere (Google/Coursera)
 - 🎯 Cloud (AWS/Azure) certification
 - 🎯 Introduction to AI (https://www.elementsofai.com/)
 - 🎯 DevOps Engineering Course for Beginners (freeCodeCamp)
