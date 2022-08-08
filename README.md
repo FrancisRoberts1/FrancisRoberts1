@@ -9,13 +9,7 @@
 - ☑ Foundations of User Experience (UX) Design (Google/Coursera)
 - ☑ Responsive Web Design (freeCodeCamp.org)
 - 
-- ➡ Front End Development Libraries (freeCodeCamp.org) (Bootstrap, jQuery, SASS, React, Redux)
-- ➡ Back End Development and APIs (freeCodeCamp.org) (NPM, Node, Express, MongoDB, Mongoose)
-- 
-- 🎯 CCNA certification
-- 🎯 Cloud (AWS/Azure) certification
-- 🎯 Introduction to AI (https://www.elementsofai.com/)
-- 🎯 DevOps Engineering Course for Beginners (freeCodeCamp)
+- ➡ Software Development (TÉLUQ University)
 
 <!---
 FrancisRoberts1/FrancisRoberts1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
