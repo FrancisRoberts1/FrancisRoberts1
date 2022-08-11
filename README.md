@@ -3,7 +3,7 @@
 - 📫 https://twitter.com/FrancisRoberts1
 - 
 - 👀 Besides development, I’m also interested in cloud computing, AI, cyber security and tech in general.
-- 👨‍🎓 I’m currently learning Full-Stack Development. (HTML, CSS, JS, C#, Java, SQL, Python)
+- 👨‍🎓 I’m currently learning Full-Stack Development. (HTML, CSS, JS, C#, Java, SQL, Python, PHP)
 - 
 - ☑ The Fundamentals of Digital Marketing (Google Digital Garage)
 - ☑ Foundations of User Experience (UX) Design (Google/Coursera)
