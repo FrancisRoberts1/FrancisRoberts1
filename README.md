@@ -9,6 +9,7 @@
 - ☑ Foundations of User Experience (UX) Design (Google/Coursera)
 - ☑ Responsive Web Design (freeCodeCamp.org)
 - 
+- ➡ Microsoft Certified: Azure Fundamentals (AZ-900) ➡ (AI-900) ➡ (SC-900)
 - ➡ Software Development (TÉLUQ University)
 
 <!---
