@@ -3,14 +3,14 @@
 - 📫 https://twitter.com/FrancisRoberts1
 - 
 - 👀 Besides development, I’m also interested in cloud computing, DevOps, AI, cyber security and tech in general.
-- 👨‍🎓 I’m currently mastering Full-Stack Development: HTML, CSS, Javascript (React, Node, Typescript), Python, C# (ASP.NET Core)
+- 💻 I’m currently mastering Full-Stack Development: HTML, CSS, Javascript (React, Node, Typescript), Python, C# (ASP.NET Core)
 - 
 - ☑ The Fundamentals of Digital Marketing (Google Digital Garage)
 - ☑ Foundations of User Experience (UX) Design (Google/Coursera)
 - ☑ Responsive Web Design (freeCodeCamp.org)
 - 
 - ➡ Microsoft Certified: Azure Fundamentals (AZ-900) ➡ (AI-900) ➡ (SC-900)
-- ➡ Software Development (TÉLUQ University)
+- 🎓 Software Development (TÉLUQ University)
 
 <!---
 FrancisRoberts1/FrancisRoberts1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
