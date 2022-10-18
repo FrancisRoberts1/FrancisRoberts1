@@ -10,7 +10,7 @@
 - ☑ Responsive Web Design (freeCodeCamp.org)
 - 
 - ➡ Microsoft Certified: Azure Fundamentals (AZ-900) ➡ (AI-900) ➡ (SC-900)
-- 🎓 Software Development (TÉLUQ University)
+- ➡ Software Development (TÉLUQ University)
 
 <!---
 FrancisRoberts1/FrancisRoberts1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
