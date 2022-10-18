@@ -1,9 +1,9 @@
-- 👋 Hi! I’m @FrancisRoberts1, Junior Developer
+- 👋 Hi! I’m @FrancisRoberts1, Junior Full-Stack Developer 
 - 📫 https://www.linkedin.com/in/francis-roberts/
 - 📫 https://twitter.com/FrancisRoberts1
 - 
-- 👀 Besides development, I’m also interested in cloud computing, AI, cyber security and tech in general.
-- 👨‍🎓 I’m currently learning Full-Stack Development. (HTML, CSS, JS, C#, Java, SQL, Python, PHP)
+- 👀 Besides development, I’m also interested in cloud computing, DevOps, AI, cyber security and tech in general.
+- 👨‍🎓 I’m currently mastering Full-Stack Development: HTML, CSS, Javascript (React, Node, Typescript), Python, C# (ASP.NET Core)
 - 
 - ☑ The Fundamentals of Digital Marketing (Google Digital Garage)
 - ☑ Foundations of User Experience (UX) Design (Google/Coursera)
